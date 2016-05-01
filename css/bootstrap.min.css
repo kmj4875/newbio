@@ -16,3 +16,15 @@ background-color:#657b7c;
 {
 background-color:#bae4e7;
 }
+.jumbotron {
+    padding: 0.5em 0.6em;
+    h1 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1.2em;
+        .btn {
+            padding: 0.5em;
+        }
+    }
+}
